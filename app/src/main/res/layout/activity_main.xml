@@ -17,6 +17,7 @@
         <Button
             android:id="@+id/btnMenu1"
             style="@style/menu_btn_style"
+            android:background="@color/black"
             android:text="Menu 1" />
 
         <Button
@@ -35,7 +36,7 @@
         <Button
             android:id="@+id/btnMenu3"
             style="@style/menu_btn_style"
-            android:text="Menu 2" />
+            android:text="Menu 3" />
 
         <Button
             android:id="@+id/btnMenu4"
